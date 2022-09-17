@@ -1,0 +1,32 @@
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+F:\GoogleDriveSync\Security 2018-2019\Students\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\GoogleDriveSync\Security 2018-2019\Staff\Labs\Lab 1\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+F:\GoogleDriveSync\Security 2018-2019\Staff\Labs\Lab 1\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+F:\GoogleDriveSync\Security 2018-2019\Staff\Labs\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+F:\GoogleDriveSync\Security 2018-2019\Staff\Labs\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+F:\GoogleDriveSync\Security 2018-2019\Staff\Labs\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+N:\Study\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csprojAssemblyReference.cache
+N:\Study\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+N:\Study\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+N:\Study\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+N:\Study\SecurityPackage\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+N:\Study\SecurityPackage\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\Ziad Abdelnaby\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\Ziad Abdelnaby\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\Ziad Abdelnaby\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\Ziad Abdelnaby\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\Ziad Abdelnaby\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+C:\Users\Ziad Abdelnaby\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+D:\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+D:\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+D:\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+D:\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+D:\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+D:\Desktop\New folder\SecurityPackage\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
